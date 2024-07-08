@@ -33,7 +33,7 @@ const Contact = () => {
       <div className="flex flex-col md:flex-row gap-8 md:gap-36">
         <div className="flex flex-col gap-4">
           <h1 className='text-4xl md:text-7xl font-bold bg-gradient-to-r from-indigo-500 via-purple-500 to-pink-500 bg-clip-text text-transparent'>Let's Talk</h1>
-          <p className='max-w-xl text-slate-300 text-base leading-8'>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Cumque tempore, illum autem vel doloremque sed, fuga porro officia dicta ratione quae obcaecati commodi provident ea explicabo expedita veritatis molestiae sunt.</p>
+          <p className='max-w-xl text-slate-300 text-base leading-8'>Let's connect! I'm always interested in new opportunities and collaborations.</p>
           <div className="flex flex-col gap-7 text-slate-300 text-lg md:text-xl">
             <div className="flex items-center gap-5">
               <img src={mail} alt="" /><p>sumanjagadeesh357@gmail.com</p>
